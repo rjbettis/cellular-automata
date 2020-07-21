@@ -1,5 +1,5 @@
-# cellular-automata
-Various elementary cellular automata rules
+# Elementary Cellular Automata
+Displays various elementary cellular automata generations using some of the more interesting rules.
 
 
 # Video Demonstration
